@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Tek Raj Awasthi 👋
 ### Flutter Developer | Dart Enthusiast 
 
 - 🔭 I’m currently working on **Mobile UI/UX Projects**
